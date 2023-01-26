@@ -7,5 +7,5 @@
 
 •	Achieved 63% correlation between predicted and observed drug sensitivity using solely gene expression data, 37% higher than the reported model.
 
-See findings in the pdf in this repo.
+See findings in the **final_report.pdf** in this repo.
 
